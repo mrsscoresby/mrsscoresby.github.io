@@ -54,8 +54,9 @@ Definitely need to work on learning more. For now, as a beginner, I want to focu
 ### Useful resources
 
 - [Alex the Analyst YouTube video](https://www.youtube.com/watch?v=SwtL-6w-B5c) - I had to look up how to use Git and GitHub and this series was really helpful.
+- [Visual Studio Code YouTube video](https://youtu.be/i_23KUAEtUM) - Only got it done after watching this one.
 - [W3 Schools](https://www.w3schools.com/html/html_basic.asp) - One of the pages I've used the most so far, it helps understand the most basic concepts.
 
 ## Author
 
-- Frontend Mentor - [@mrscoresby](https://www.frontendmentor.io/profile/mrscoresby)
+- Frontend Mentor - [@mrsscoresby](https://www.frontendmentor.io/profile/mrsscoresby)
